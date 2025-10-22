@@ -48,6 +48,9 @@ npm install
 Iniciar la aplicación en modo desarrollo:
 npm run dev
 
+Luego abre en tu navegador:
+👉 http://localhost:5173
+
 
 ## Tecnologías
 
@@ -114,7 +117,7 @@ Puedes contactar a las desarrolladoras a través de sus perfiles profesionales:
       <a href="https://github.com/Montc027">GitHub</a>
     </td>
         <td style="border: none; padding: 10px;">
-      <b>Alejandro Diaz Corredera</b><br>
+      <b>Alejandro Diaz</b><br>
       <a href="https://www.linkedin.com/in/alejandro-diaz-corredera/">LinkedIn</a> |
       <a href="https://github.com/sixfantasy">GitHub</a>
     </td>
@@ -131,6 +134,7 @@ Puedes contactar a las desarrolladoras a través de sus perfiles profesionales:
 
   </tr>
 </table>
+
 
 
 
