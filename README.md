@@ -20,6 +20,8 @@ Recomendación (path "recomendaciones")
 Ranking (path"/ranking")
 <img width="1152" height="660" alt="Screenshot 2025-10-15 220736" src="https://github.com/user-attachments/assets/a6ef1eb7-5faf-422b-bd48-a23e95708b7c" />
 
+# Frontend de Hackaton
+
 ## Instalación y despliegue
 Clonar el repositorio:
 
@@ -38,8 +40,76 @@ Tailwindcss
 
 React
 
+# Backend de Hackaton
+
+## API para el Hackaton de Servicios de Ocupación 2025
+
+La API conecta con las bases de datos de opendata de Barcelona para recoger y gestionar los datos necesarios.
+
+## Puntos finales
+OBTENER /api/pisosFull
+Devuelve un listado con todos los pisos turísticos de Barcelona
+
+OBTENER /api/pisos
+Devuelve un listado reducido de los pisos turísticos de Barcelona.
+
+OBTENER /api/pisosDiez
+Devuelve un listado con 10 pisos turísticos de cada Distrito de Barcelona
+
+OBTENER /api/puntosDeInteres
+Devuelve un listado con puntos turísticos
+
+POST /api/suscribirse
+Almacena el email del usuario para contactar con el
+
+## Iniciar
+npm i
+inicio de npm
+
 
 ## Equipo
+
+¿Tienes dudas o quieres saber más sobre el proyecto?
+
+Puedes contactar a las desarrolladoras a través de sus perfiles profesionales:
+
+<table style="width:100%; border-collapse: collapse; border: none; text-align:center;">
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <b>Ana Aguilera</b><br> | FrontEnd
+      <a href="https://www.linkedin.com/in/ana-aguilera-morales/">LinkedIn</a> |
+      <a href="https://github.com/AnaAguileraMorales88" target="_blank">GitHub</a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <b>Sergi Diaz Lopez</b><br> | BackEnd
+      <a href="https://www.linkedin.com/in/sergi-diaz-lopez/">LinkedIn</a> |
+      <a href="https://github.com/sergidl">GitHub</a>
+    </td>
+        <td style="border: none; padding: 10px;">
+      <b>Montse Muñoz </b><br> | FrontEnd
+      <a href="https://www.linkedin.com/in/montserrat-munoz-cabrera-ba202b227/">LinkedIn</a> |
+      <a href="https://github.com/Montc027">GitHub</a>
+    </td>
+        <td style="border: none; padding: 10px;">
+      <b>Alejandro Diaz Corredera</b><br> | BackEnd
+      <a href="https://www.linkedin.com/in/alejandro-diaz-corredera/">LinkedIn</a> |
+      <a href="https://github.com/sixfantasy">GitHub</a>
+    </td>
+        <td style="border: none; padding: 10px;">
+      <b>Mio Ogura</b><br> | FrontEnd
+      <a href="https://www.linkedin.com/in/mio-ogura/">LinkedIn</a> |
+      <a href="https://github.com/miaryl">GitHub</a>
+    </td>
+        <td style="border: none; padding: 10px;">
+      <b>Cristian Miguel Bo</b><br> | FrontEnd
+      <a href="https://www.linkedin.com/in/cristian-miguel-bo-88784223a">LinkedIn</a> |
+      <a href="https://github.com/CristianMiguelBo">GitHub</a>
+    </td>
+
+  </tr>
+</table>
+
+
 
 -Sergi Diaz Lopez - BackEnd - LinkedIn
 
@@ -52,4 +122,5 @@ React
 -Montse Muñoz - FrontEnd - [LinkedIn](www.linkedin.com/in/montserrat-muñoz-cabrera-ba202b227)
 
 -Mio Ogura - FrontEnd - [LinkedIn](www.linkedin.com/in/mio-ogura)
+
 
