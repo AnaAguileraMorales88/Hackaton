@@ -4,21 +4,35 @@
 
 Este proyecto tiene como finalidad ofrecer una herramienta interactiva para entender el impacto del turismo en los barrios de Barcelona. Permite a los usuarios decidir dónde vivir o qué zonas evitar según la saturación turística, mediante mapas, rankings y recomendaciones de pisos.
 
+## Descripción 
+
+Permite explorar el impacto del turismo en Barcelona mediante:
+
+Mapas interactivos con información sobre viviendas de uso turístico (HUTs).
+
+Ranking de barrios más tranquilos y más saturados.
+
+Recomendaciones personalizadas de pisos.
+
+Chatbot que responde dudas sobre la vivienda y la saturación turística.
+
+Diseño responsive y moderno con Tailwind CSS y Framer Motion.
+
 # Capturas de pantalla
 Home (path"/")
-<img width="991" height="939" alt="Screenshot 2025-10-15 223936" src="https://github.com/user-attachments/assets/216820ce-5ac6-4299-a3e4-e1af64634824" />
+<p align="center"> <img src="https://github.com/user-attachments/assets/216820ce-5ac6-4299-a3e4-e1af64634824" alt="Home Screenshot" width="500" /> </p>
 
 Chat Bot <br>
-<img width="423" height="563" alt="Screenshot 2025-10-15 224120" src="https://github.com/user-attachments/assets/940c30fb-6e4d-41d3-80b3-07f73310bfbd" />
+<p align="center"> <img src="https://github.com/user-attachments/assets/940c30fb-6e4d-41d3-80b3-07f73310bfbd" alt="Chat Bot Screenshot" width="300" /> </p>
 
 Mapa (path "/mapa")
-<img width="1097" height="774" alt="Screenshot 2025-10-15 233124" src="https://github.com/user-attachments/assets/cfb7fafe-3163-4f7f-af3d-92fbf2fd949b" />
+<p align="center"> <img src="https://github.com/user-attachments/assets/cfb7fafe-3163-4f7f-af3d-92fbf2fd949b" alt="Mapa Screenshot" width="600" /> </p>
 
 Recomendación (path "recomendaciones")
-<img width="952" height="716" alt="Screenshot 2025-10-15 233303" src="https://github.com/user-attachments/assets/137a809c-fc60-49bb-9233-3a18267a4cf8" />
+<p align="center"> <img src="https://github.com/user-attachments/assets/137a809c-fc60-49bb-9233-3a18267a4cf8" alt="Recomendaciones Screenshot" width="500" /> </p>
 
 Ranking (path"/ranking")
-<img width="1152" height="660" alt="Screenshot 2025-10-15 220736" src="https://github.com/user-attachments/assets/a6ef1eb7-5faf-422b-bd48-a23e95708b7c" />
+<p align="center"> <img src="https://github.com/user-attachments/assets/a6ef1eb7-5faf-422b-bd48-a23e95708b7c" alt="Ranking Screenshot" width="600" /> </p>
 
 # Frontend de Hackaton
 
@@ -35,10 +49,19 @@ Iniciar la aplicación en modo desarrollo:
 npm run dev
 
 
-## Tecnologias
-Tailwindcss
+## Tecnologías
 
-React
+React 19, React Router DOM
+
+Estilos	Tailwind CSS, Framer Motion
+
+Mapas	Mapbox GL, Leaflet, React Leaflet, Leaflet.Heat
+
+Interactividad	React Chatbotify
+
+Gestión y Build	Vite
+
+Control de versiones	Git y GitHub
 
 # Backend de Hackaton
 
@@ -76,32 +99,32 @@ Puedes contactar a las desarrolladoras a través de sus perfiles profesionales:
 <table style="width:100%; border-collapse: collapse; border: none; text-align:center;">
   <tr>
     <td style="border: none; padding: 10px;">
-      <b>Ana Aguilera</b><br> | FrontEnd
+      <b>Ana Aguilera</b><br>
       <a href="https://www.linkedin.com/in/ana-aguilera-morales/">LinkedIn</a> |
       <a href="https://github.com/AnaAguileraMorales88" target="_blank">GitHub</a>
     </td>
     <td style="border: none; padding: 10px;">
-      <b>Sergi Diaz Lopez</b><br> | BackEnd
+      <b>Sergi Diaz Lopez</b><br>
       <a href="https://www.linkedin.com/in/sergi-diaz-lopez/">LinkedIn</a> |
       <a href="https://github.com/sergidl">GitHub</a>
     </td>
         <td style="border: none; padding: 10px;">
-      <b>Montse Muñoz </b><br> | FrontEnd
+      <b>Montse Muñoz </b><br>
       <a href="https://www.linkedin.com/in/montserrat-munoz-cabrera-ba202b227/">LinkedIn</a> |
       <a href="https://github.com/Montc027">GitHub</a>
     </td>
         <td style="border: none; padding: 10px;">
-      <b>Alejandro Diaz Corredera</b><br> | BackEnd
+      <b>Alejandro Diaz Corredera</b><br>
       <a href="https://www.linkedin.com/in/alejandro-diaz-corredera/">LinkedIn</a> |
       <a href="https://github.com/sixfantasy">GitHub</a>
     </td>
         <td style="border: none; padding: 10px;">
-      <b>Mio Ogura</b><br> | FrontEnd
+      <b>Mio Ogura</b><br>
       <a href="https://www.linkedin.com/in/mio-ogura/">LinkedIn</a> |
       <a href="https://github.com/miaryl">GitHub</a>
     </td>
         <td style="border: none; padding: 10px;">
-      <b>Cristian Miguel Bo</b><br> | FrontEnd
+      <b>Cristian Miguel Bo</b><br>
       <a href="https://www.linkedin.com/in/cristian-miguel-bo-88784223a">LinkedIn</a> |
       <a href="https://github.com/CristianMiguelBo">GitHub</a>
     </td>
@@ -111,16 +134,6 @@ Puedes contactar a las desarrolladoras a través de sus perfiles profesionales:
 
 
 
--Sergi Diaz Lopez - BackEnd - LinkedIn
 
--Alejandro Diaz Corredera - BackEnd - LinkedIn
-
--Ana Aguilera - FrontEnd - LinkedIn
-
--Cristian - FrontEnd 
-
--Montse Muñoz - FrontEnd - [LinkedIn](www.linkedin.com/in/montserrat-muñoz-cabrera-ba202b227)
-
--Mio Ogura - FrontEnd - [LinkedIn](www.linkedin.com/in/mio-ogura)
 
 
