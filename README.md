@@ -19,7 +19,8 @@ Chatbot que responde dudas sobre la vivienda y la saturación turística.
 Diseño responsive y moderno con Tailwind CSS y Framer Motion.
 
 # Capturas de pantalla
-Home (path"/")
+
+Página principal
 <p align="center"> <img src="https://github.com/user-attachments/assets/216820ce-5ac6-4299-a3e4-e1af64634824" alt="Home Screenshot" width="500" /> </p>
 
 Chat Bot <br>
@@ -134,6 +135,7 @@ Puedes contactar a las desarrolladoras a través de sus perfiles profesionales:
 
   </tr>
 </table>
+
 
 
 
